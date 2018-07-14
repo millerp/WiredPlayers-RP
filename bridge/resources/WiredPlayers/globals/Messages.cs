@@ -113,7 +113,7 @@ namespace WiredPlayers.globals
         public const String GEN_TOWNHALL_HELP = "Type the command above to get the available formalities";
         public const String GEN_HOUSE = "House";
         public const String GEN_BUSINESS = "Business";
-        public const String GEN_WELCOME_MESSAGE = "Welcome to WiredPlayers, {0}.";
+        public const String GEN_WELCOME_MESSAGE = "Bem vindo ao BrasilEggs RP, {0}.";
         public const String GEN_WELCOME_HINT = "Use ~b~/welcome ~w~command in order to know how can you start your life in Los Santos.";
         public const String GEN_HELP_HINT = "Use ~b~/help ~w~command whenever you want to get general information.";
         public const String GEN_TICKET_HINT = "Use ~b~/ticket ~w~command to ask for help from the staff.";
@@ -328,7 +328,7 @@ namespace WiredPlayers.globals
         public const String INF_ENTER_LICENSE_BIKE_VEHICLE = "Get into a motorcycle from the driving school to start the license exam. Don't forget to keep the speed under 100 km/h.";
         public const String INF_PLAYER_CAN_DIE = "If the emergency service is not still on its way, you can use /die to be teleported to the hospital.";
         public const String INF_EMERGENCY_WARN = "A report has been sent to the emergency department.";
-        public const String INF_ACCOUNT_NEW = "You need to be registered in https://wiredplayers.com/home to log into the server.";
+        public const String INF_ACCOUNT_NEW = "Você precisa estar registrado em https://brasileg.gs para fazer login no servidor.";
         public const String INF_ACCOUNT_DISABLED = "Your account is locked, head to the forums if you want more detailed information.";
         public const String INF_SEATBELT_FASTEN = "has fasten his seatbelt.";
         public const String INF_SEATBELT_UNFASTEN = "has unfasten his seatbelt.";
