@@ -1,4 +1,4 @@
-﻿################################################################################
+################################################################################
 # Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
 ################################################################################
 
@@ -30,3 +30,4 @@
 !/bridge/runtime/System.Text.Encoding.CodePages.dll
 !/bridge/runtime/System.Text.Encoding.dll
 !/bridge/runtime/System.Management.dll
+conf.json
